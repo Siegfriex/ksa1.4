@@ -1,0 +1,9 @@
+{
+  "name": "knowledge-augmentation-system-v1.5",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "firebase emulators:start"
+  },
+  "dependencies": {}
+}
